@@ -1784,8 +1784,8 @@ input, select, textarea {
 
 	#banner {
 		text-align: center;
-		width: 940px;
 		margin: 0 auto;
+		width: 100%;
 		overflow: hidden;
 		padding: 9em 0 6em 0;
 	}
@@ -1849,7 +1849,7 @@ input, select, textarea {
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/bg01.png"), url("../../images/header.jpg");
+		background: url("images/bg01.png"), url("images/BackdropHomeMainPage.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 		padding: 3em 0;
