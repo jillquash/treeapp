@@ -1,13 +1,3 @@
-Treeapp Website!
-
-Team: ________ at Backyard Hacks Hackathon!
-
-Our motivation for building this website was to encourage individuals to go outside 
-and have more explorative experiences within nature. As one of our teammembers (Grace)
-was familiar with tree identification and the processes that went to differentiate between
-different trees, we decided to make a tree identification website that would help users
-distinguish between a small selection of trees! We took a few selections of trees from
-each of the states we are from (Maryland, Florida, Texas, Nigeria) and this website came to life!
 
 
 ZeroFour by HTML5 UP
