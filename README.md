@@ -12,17 +12,8 @@ So the file structure of this website is split into 4 main components:
 - The tree region of Eastern United States
 - The tree region of Western United States
 
-with each subset kept separate from each other, we were able to come up with a format that would allow the specific tree regions to link onto individual pages of the trees the user was trying to identify. By forcing the food 
+with each subset kept separate from each other, we were able to come up with a format that would allow the specific tree regions to link onto individual pages of the trees the user was trying to identify. 
 
-Configuration instructions
+The way the tree finding process works within the website is more of a question/answer format almost like a flowchart; guiding the user to find the tree they are looking for. Although it is not an exhaustive list for all of the trees, it has a few basic ones that allows for quick exploration!
 
-Installation instructions
-Operating instructions
-A file manifest (list of files included)
-Copyright and licensing information
-Contact information for the distributor or programmer
-Known bugs[3]
-Troubleshooting[3]
-Credits and acknowledgments
-A changelog (usually for programmers)
-A news section (usually for users)
+Hope you all like it!
